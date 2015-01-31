@@ -1,0 +1,14 @@
+/target
+/lib
+/classes
+/checkouts
+pom.xml
+*.jar
+*.class
+/.lein-*
+/.env
+*.log
+site.db.mv.db
+site.db.trace.db
+.nrepl-port
+.idea/
