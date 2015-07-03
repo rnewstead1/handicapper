@@ -19,3 +19,7 @@ To start a web server for the application, run:
 ## Tests
 
 [Snap CI](https://snap-ci.com/rnewstead1/handicapper/branch/master)
+
+## TODO
+
+- Add the ability to fetch an athletes data by entering name.

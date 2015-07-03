@@ -47,7 +47,7 @@
   (when-not (schema/initialized?)
     (schema/create-tables)
     ;gather initial data
-    (data-collection/collect))
+    (data-collection/collect 527523))
 
   ;;start the expired session cleanup job
   (cronj/start! session-manager/cleanup-job)
